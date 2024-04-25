@@ -7,7 +7,7 @@
 update to the latest version 5.330.0 You
 can keep online the app while
 downloading the update.",
-"download":"https://drive.google.com/APK BISA DI UPLOAD DI GOOGLE DRIVE"
+"download":"https://drive.google.com/file/d/11m5KaLEV51kK6jUSNAdiv2GCdWtSAaSY/view?usp=drivesdk"
 }
   ]
 }
