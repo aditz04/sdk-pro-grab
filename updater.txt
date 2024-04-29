@@ -1,13 +1,13 @@
 {
   "sdkgrab_update": [
     {
- "version":"5.330.0",
+ "version":"5.330.1",
  "title":"Update Tersedia",
  "description":"SDK PRO BEGAL Grab Driver Mod recommends that you
-update to the latest version 5.330.0 You
+update to the latest version 5.330.1 You
 can keep online the app while
 downloading the update.",
-"download":"https://drive.google.com/file/d/11m5KaLEV51kK6jUSNAdiv2GCdWtSAaSY/view?usp=drivesdk"
+"download":"https://drive.google.com/file/d/13AD95SLyXT1t8phHVaP5DaRSnOlPc6N0/view?usp=drivesdk"
 }
   ]
 }
