@@ -1,13 +1,13 @@
 {
   "sdkgrab_update": [
     {
- "version":"5.331.0",
+ "version":"5.333.0",
  "title":"Update Tersedia",
  "description":"SDK PRO BEGAL Grab Driver Mod silahkan klik update
-update new version 5.331.0 jangan
+update new version 5.333.0 jangan
 tutup aplikasi grab, ikuti petunjuk
 selama masih download berlangsung.",
-"download":"https://drive.google.com/file/d/14KLRj42-llEwTW-7Z3kBw0BKIj9TRPEn/view?usp=drivesdk"
+"download":"https://drive.google.com/file/d/17CanEJG0KCEnAAiI1WeriluqYPXvOSWU/view?usp=drivesdk"
 }
   ]
 }
